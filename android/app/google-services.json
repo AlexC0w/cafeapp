@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "665723824928",
+    "firebase_url": "https://restaurant-app-2032b-default-rtdb.firebaseio.com",
+    "project_id": "restaurant-app-2032b",
+    "storage_bucket": "restaurant-app-2032b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665723824928:android:0a30696dfb2017f4498545",
+        "android_client_info": {
+          "package_name": "com.cafeuach.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665723824928-tg5i0aqhnu59jvbp1qq65s8h33s92lal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4PwDrN2ksWej2_CXAb7emAhC7ld6pdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665723824928-tg5i0aqhnu59jvbp1qq65s8h33s92lal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "665723824928-62jptsg0pvaqe6jlf5vdbpk7kktt5909.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "restaurant.antojitos.chih"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665723824928:android:93fcd8e620a160b0498545",
+        "android_client_info": {
+          "package_name": "driver.antojitos.chih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665723824928-tg5i0aqhnu59jvbp1qq65s8h33s92lal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4PwDrN2ksWej2_CXAb7emAhC7ld6pdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665723824928-tg5i0aqhnu59jvbp1qq65s8h33s92lal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "665723824928-62jptsg0pvaqe6jlf5vdbpk7kktt5909.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "restaurant.antojitos.chih"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665723824928:android:3a9321607c9a73e2498545",
+        "android_client_info": {
+          "package_name": "restaurant.antojitos.chih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665723824928-m2ca02qgvil1uvmud8gmube6v8puogpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "restaurant.antojitos.chih",
+            "certificate_hash": "42ff40806153ba8106809a99151e70b7d6564143"
+          }
+        },
+        {
+          "client_id": "665723824928-tg5i0aqhnu59jvbp1qq65s8h33s92lal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4PwDrN2ksWej2_CXAb7emAhC7ld6pdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665723824928-tg5i0aqhnu59jvbp1qq65s8h33s92lal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "665723824928-62jptsg0pvaqe6jlf5vdbpk7kktt5909.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "restaurant.antojitos.chih"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665723824928:android:0a832db4d7df075f498545",
+        "android_client_info": {
+          "package_name": "user.antojitos.chih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665723824928-tg5i0aqhnu59jvbp1qq65s8h33s92lal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4PwDrN2ksWej2_CXAb7emAhC7ld6pdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665723824928-tg5i0aqhnu59jvbp1qq65s8h33s92lal.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "665723824928-62jptsg0pvaqe6jlf5vdbpk7kktt5909.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "restaurant.antojitos.chih"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
