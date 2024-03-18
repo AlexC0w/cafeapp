@@ -1,10 +1,10 @@
 {
-  "your_business_name": "apilar comida",
+  "your_business_name": "Cafe Uach",
   "connection_to_api_server_failed": "La conexión al servidor API falló debido a la conexión a Internet",
   "select_language": "Seleccione el idioma",
-  "save": "Salvar",
+  "save": "Guardar",
   "select_a_language": "Selecciona un idioma",
-  "on_boarding_1_title": "Obtener comidas favoritas",
+  "on_boarding_1_title": "Tus comidas favoritas",
   "on_boarding_2_title": "Pago fácil",
   "on_boarding_3_title": "Entrega rápida",
   "on_boarding_1_description": "Seleccione su ubicación para ver los restaurantes de amplio rango y solicite la comida deseada.",
